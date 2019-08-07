@@ -32,3 +32,11 @@ E:\lhy\Personal-practice\layui\Personal-practice-layui-\Personalpractice\obj\Deb
 E:\lhy\Personal-practice\layui\Personal-practice-layui-\Personalpractice\obj\Debug\netcoreapp2.2\Personalpractice.dll
 E:\lhy\Personal-practice\layui\Personal-practice-layui-\Personalpractice\obj\Debug\netcoreapp2.2\Personalpractice.pdb
 E:\lhy\Personal-practice\layui\Personal-practice-layui-\Personalpractice\obj\Debug\netcoreapp2.2\Personalpractice.csproj.CopyComplete
+E:\lhy\Personal-practice\layui\Personal-practice-layui-\Personalpractice\obj\Debug\netcoreapp2.2\Razor\Views\School\BatchDelete.g.cshtml.cs
+E:\lhy\Personal-practice\layui\Personal-practice-layui-\Personalpractice\obj\Debug\netcoreapp2.2\Razor\Views\School\BatchEdit.g.cshtml.cs
+E:\lhy\Personal-practice\layui\Personal-practice-layui-\Personalpractice\obj\Debug\netcoreapp2.2\Razor\Views\School\Create.g.cshtml.cs
+E:\lhy\Personal-practice\layui\Personal-practice-layui-\Personalpractice\obj\Debug\netcoreapp2.2\Razor\Views\School\Delete.g.cshtml.cs
+E:\lhy\Personal-practice\layui\Personal-practice-layui-\Personalpractice\obj\Debug\netcoreapp2.2\Razor\Views\School\Details.g.cshtml.cs
+E:\lhy\Personal-practice\layui\Personal-practice-layui-\Personalpractice\obj\Debug\netcoreapp2.2\Razor\Views\School\Edit.g.cshtml.cs
+E:\lhy\Personal-practice\layui\Personal-practice-layui-\Personalpractice\obj\Debug\netcoreapp2.2\Razor\Views\School\Import.g.cshtml.cs
+E:\lhy\Personal-practice\layui\Personal-practice-layui-\Personalpractice\obj\Debug\netcoreapp2.2\Razor\Views\School\Index.g.cshtml.cs
