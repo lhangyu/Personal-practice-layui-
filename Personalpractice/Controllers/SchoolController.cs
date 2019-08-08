@@ -189,5 +189,25 @@ namespace Personalpractice.Controllers
             }
         }
         #endregion
+
+        #region 打印
+        [ActionDescription("打印")]
+        //[HttpGet]
+        public ActionResult Output(Guid id)
+        {
+            //var vm = CreateVM<SchoolVM>(id);
+            //return PartialView(vm);
+            var vm = CreateVM<SchoolVM>(id);
+            vm.Output(id);
+            if (!ModelState.IsValid)
+            {
+                return FFResult().Alert("打印失败！");
+            }
+            else
+            {
+                return FFResult().Alert("打印成功！");
+            }
+        }
+        #endregion
     }
 }

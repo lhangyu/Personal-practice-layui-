@@ -24,6 +24,7 @@ namespace Personalpractice.ViewModels.SchoolVMs
                 this.MakeStandardAction("School", GridActionStandardTypesEnum.BatchEdit, "批量修改","", dialogWidth: 800),
                 this.MakeStandardAction("School", GridActionStandardTypesEnum.BatchDelete, "批量删除","", dialogWidth: 800),
                 this.MakeStandardAction("School", GridActionStandardTypesEnum.Import, "导入","", dialogWidth: 800),
+                this.MakeAction("School","Output","打印1","打印2",GridActionParameterTypesEnum.SingleId,"").SetShowInRow(true).SetHideOnToolBar(true),
                 this.MakeStandardExportAction(null,false,ExportEnum.Excel)
             };
         }
